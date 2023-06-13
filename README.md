@@ -1,6 +1,6 @@
-### chega ai meu chapa 📿 🦊 🚭 🚬 🍏 🥝 🍌
+### _chega ai meu chapa_ 📿 🦊 🚭 🚬 🍏 🥝 🍌
 
-<!--
+ Meu nome é Amanda, mais conhecida por Manda, mas prefiro que me chame de Cecílya
 **cecilya033/cecilya033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
