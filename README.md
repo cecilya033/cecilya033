@@ -1,10 +1,12 @@
-### _chega ai meu chapa_ 📿 🦊 🚭 🚬 🍏 🥝 🍌
+### _chega ai meu chapa_ 📿 🦊 🚭  🍏 🥝 🍌
 
  Meu nome é Amanda, mas prefiro *Cecílya* 🦩 🦩
 
 adoro uma musiquita, desenhar e cartoon. Amo Amo Amo 🧤 💌
 
+Estou estudando no Alura  🦡
 
+Estou me desenvolvendo na linguagem JavaScript 🦗
 
 ![](https://media.tenor.com/vI9UFap5T_gAAAAC/the-amazing-world-of-gumball-tawog.gif)
 
