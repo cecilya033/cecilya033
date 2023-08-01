@@ -4,9 +4,16 @@
 
 adoro uma musiquita, desenhar e cartoon. Amo Amo Amo 🧤 💌
 
-Estou estudando no Alura  🦡
+Estou estudando no [Alura](https://www.alura.com.br)
 
-Estou me desenvolvendo na linguagem JavaScript 🦗
+Estou me desenvolvendo na linguagem JavaScript 🦗 👨‍💻 👩‍💻
+
+este espaço será para armazenar projetos feitos n0 alura  🏳️‍🌈
+
+segue contato pessoal.
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aluraonline/)
+
+
 
 ![](https://media.tenor.com/vI9UFap5T_gAAAAC/the-amazing-world-of-gumball-tawog.gif)
 
