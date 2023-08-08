@@ -10,8 +10,6 @@ Estou me desenvolvendo na linguagem JavaScript 🦗 👨‍💻 👩‍💻
 
 este espaço será para armazenar projetos feitos n0 alura  🏳️‍🌈
 
-segue contato pessoal.
-
 ![](https://www.instagram.com/_amanda_cecilya_/)
 
 ![](https://media.tenor.com/vI9UFap5T_gAAAAC/the-amazing-world-of-gumball-tawog.gif)
