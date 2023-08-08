@@ -11,9 +11,8 @@ Estou me desenvolvendo na linguagem JavaScript 🦗 👨‍💻 👩‍💻
 este espaço será para armazenar projetos feitos n0 alura  🏳️‍🌈
 
 segue contato pessoal.
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aluraonline/)
 
-
+![](https://www.instagram.com/_amanda_cecilya_/)
 
 ![](https://media.tenor.com/vI9UFap5T_gAAAAC/the-amazing-world-of-gumball-tawog.gif)
 
